@@ -1,5 +1,4 @@
 # Competitive Programming
-### *Some codes mostly regarding competitive programming*
 ### **Judges**
 * Zero Judge
 * TCIRC Judge
@@ -10,8 +9,8 @@
 * Kattis
 * Formosa OJ
 * GPE
-* Else...
-### **Contests**
 * AtCoder
 * YTP
 * LeetCode
+* CSES
+* else...

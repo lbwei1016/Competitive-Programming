@@ -1,0 +1,7 @@
+*.exe
+test.*
+temp.*
+tmp.*
+_vscode_shortcut.md
+?.*
+HW
