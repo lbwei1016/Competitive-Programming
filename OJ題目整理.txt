@@ -117,6 +117,7 @@ DP:
     atcoder_abc_237_F: |LIS|=3 (LIS) (*)
     cf_1083E: E. The Fair Nut and Rectangles (Covex Hull Optimization) (*)
     leetcode_1981: Minimize the Difference Between Target and Chosen Elements (Memoization)
+    atcoder_abc_232_E: Rook Path (fast power / modular multiplicative inverse)
 
     Optimization:
         zj_d645: 輪下亡魂 (Bounded_knapsack) (二進制拆分優化) (單調隊列優化) (*)
