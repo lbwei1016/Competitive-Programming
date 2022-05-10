@@ -49,6 +49,7 @@ Data Structure:
     atcoder_abc_221_E: LEQ (Modular multiplicative inverse / hashing) (*)
     atcoder_abc_233_E: Σ[k=0..10^100]floor(X／10^k) (Segment Tree)
     atcoder_abc_237_G: Range Sort Query (Segment Tree / lazy propagation) (*)
+    cf_1676H2: Maximum Crossings (BIT)
 
 Divide and Conquer:
     tcirc_d036: Q-3-12. 完美彩帶 (Sliding Window)
@@ -138,7 +139,7 @@ Graph:
     DFS:
         zj_a017: 五則運算
         zj_a229: 括號匹配
-        zj_a562: ITSA201112 P2 小白鼠走方格 (path / Hash) (ITSA)
+        zj_a562: ITSA201112 P2 小白鼠走方格 (path / hash) (ITSA)
         poj_3009: Curling 2.0
         NCPC_2015_B: Toll problem
         tcirc_d106: P-8-7. 寶石的顏色
@@ -155,7 +156,8 @@ Graph:
         tioj_1163: 施工中的道路 (LCA) (*)
         tioj_1795: 咕嚕咕嚕呱啦呱啦 (最大、最小 MST)
         UVa_10600: ACM Contest and Blackout (Second-best Spanning Tree -- SBST)
-        zj_c495 次小生成樹 (UVa_10600) (*)
+        zj_c495: 次小生成樹 (UVa_10600) (*)
+        zj_a129: 最小生成樹 (模板題)
         atcoder_235_E: MST + 1 (LCA)
     Shortest Path:
         poj_3225: Roadblocks (second shortest path / Dijkstra)
@@ -194,8 +196,8 @@ Graph:
         tcirc_d101: Q-7-11. 紅白彩帶
         poj_1182: 食物鏈 (Union_and_Find) (*)
     隱式圖:
-        tioj_1008: 量杯問題 (BFS / Hash) (*)
-        UVa_10603: Fill (BFS / Hash)
+        tioj_1008: 量杯問題 (BFS / hash) (*)
+        UVa_10603: Fill (BFS / hash)
     Else:
         tioj_1092: A.跳格子遊戲 (DP / Game / Topology)
 
@@ -234,11 +236,12 @@ Math:
 Monotone:
     Kattis: Bungee Builder
 
-Prefix (Suffix) Sum:
+Prefix (Suffix) Problem:
     zj_e339: 前綴合練習
     zj_f638: 支點切割 (apcs / Recursion)
     atcoder_abc_233_D: Count Interval (range sum) (*)
     atcoder_abc_240_F: Sum Sum MAX (prefix sum's prefix sum) (*)
+    atcoder_abc_250E: Prefix Equality (set / hash) (*)
 
 Recursion:
     zj_f640: 函數運算式求值 (apcs)
