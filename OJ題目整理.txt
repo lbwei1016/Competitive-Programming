@@ -63,11 +63,11 @@ Divide and Conquer:
     leetcode_1996: The Number of Weak Characters in the Game 
 
 DP:
-    zj_a252: Another LCS(三字串LCS)
+    zj_a252: Another LCS (三字串LCS)
     zj_a364: 2. 神秘的進位問題 (factorial)
     zj_a522: Bars(Subset)
     zj_a532: 奇特的數列 (字串／數列)
-    zj_a591: Bees' ancestors(Fibonacci)
+    zj_a591: Bees' ancestors (Fibonacci)
     zj_a697: [NOIP 2012 普及組] 3.
     zj_b123: 最大矩形
     zj_b184: 裝貨櫃問題 (0/1_knapsack)
@@ -119,6 +119,7 @@ DP:
     cf_1083E: E. The Fair Nut and Rectangles (Covex Hull Optimization) (*)
     leetcode_1981: Minimize the Difference Between Target and Chosen Elements (Memoization)
     atcoder_abc_232_E: Rook Path (fast power / modular multiplicative inverse)
+    cf_1692H: H. Gambling (Maximum Subarray Problem)
 
     Optimization:
         zj_d645: 輪下亡魂 (Bounded_knapsack) (二進制拆分優化) (單調隊列優化) (*)
