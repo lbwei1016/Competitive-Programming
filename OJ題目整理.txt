@@ -18,6 +18,7 @@ Binary Search:
     tcirc_d054: Q-4-10. 恢復能量的白雲熊膽丸
     tioj_1341: Aliens (IOI 2007) (*)
     tioj_1815: Robots (Greedy / 兩物分類排序) (IOI 2013) (*)
+    cf_1698D: Fixed Point Guessing 
 
 Bit:
     zj_e288: 互補CP (apcs)
@@ -244,6 +245,7 @@ Prefix (Suffix) Problem:
     atcoder_abc_233_D: Count Interval (range sum) (*)
     atcoder_abc_240_F: Sum Sum MAX (prefix sum's prefix sum) (*)
     atcoder_abc_250E: Prefix Equality (set / hash) (*)
+    cf_1696D: Permutation Graph (*) (Graph)
 
 Recursion:
     zj_f640: 函數運算式求值 (apcs)
