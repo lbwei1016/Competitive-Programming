@@ -217,6 +217,7 @@ Greedy:
     tcirc_d059: Q-4-18. 少林寺的櫃姐 (Binary Search) (tcirc_d053) (*)
     cf_665C: Simple Strings
     cf_701A: Cards
+    cf_1701D: Permutation Restoration (Order / Permutation) (*)
 
 Math:
     zj_a121: 質數又來囉 (range prime)
