@@ -32,7 +32,7 @@ Data Structure:
     zj_d539: 區間 MAX (Segment Tree)
     zj_d799: 區間求和 (區間和 + 區間修改) (Segment Tree + 標記 / 兩棵BIT)
     zj_f163: 貨物分配 (apcs / Segment Tree) (tcirc_d105: DFS)
-    poj_2104: K-th Number (範圍樹 / Bucket + Sqrt)
+    poj_2104: K-th Number (Segment Tree / Bucket + Sqrt decomposition)
     poj_3723: Conscription (MST)
     tcirc_d026: P-3-2. 括弧配對 (stack)
     tcirc_d027: Q-3-3. 加減乘除 (stack)
@@ -107,7 +107,7 @@ DP:
     tcirc_d081: P-6-20. Hyper-cube path (Bit operation)
     tcirc_d083: P-6-22. 文無第一武無第二 (weighted LIS) (*)
     tcirc_d084: Q-6-12. 楊鐵心做 1 休 K
-    tcirc_d085: Q-6-14. K 次買賣 (*) (a more concise solution is in ./Algorithm/DP)
+    tcirc_d085: Q-6-14. K 次買賣 (*) (a more concise solution is in /Algorithm/DP)
     tcirc_d086: Q-6-18. 矩陣乘法鏈 (zj_d652) (*)
     tcirc_d087: Q-6-23. 直升機抓寶 (LIS) (*)
     tcirc_d088: Q-6-24. 隔離採礦 (*)
