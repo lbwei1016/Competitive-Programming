@@ -32,6 +32,7 @@ Data Structure:
     zj_d539: 區間 MAX (Segment Tree)
     zj_d799: 區間求和 (區間和 + 區間修改) (Segment Tree + 標記 / 兩棵BIT)
     zj_f163: 貨物分配 (apcs / Segment Tree) (tcirc_d105: DFS)
+    zj_a063: SGU 187. Twist and whirl - want to cheat 加强版 (treap)
     poj_2104: K-th Number (Segment Tree / Bucket + Sqrt decomposition)
     poj_3723: Conscription (MST)
     tcirc_d026: P-3-2. 括弧配對 (stack)
