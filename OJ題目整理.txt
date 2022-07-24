@@ -29,7 +29,7 @@ Data Structure:
     zj_d371: Huffman 編碼中的編碼效能問題 (heap / priority_queue)
     zj_f315: 4. 低地距離 (apcs / BIT)
     zj_c463: apcs 樹狀圖分析 (樹的建構與走訪 / tcirc_d025)
-    zj_d539: 區間 MAX (Segment Tree)
+    zj_d539: 區間 MAX (Segment Tree) (RMQ)
     zj_d799: 區間求和 (區間和 + 區間修改) (Segment Tree + 標記 / 兩棵BIT)
     zj_f163: 貨物分配 (apcs / Segment Tree) (tcirc_d105: DFS)
     zj_a063: SGU 187. Twist and whirl - want to cheat 加强版 (treap)
@@ -53,6 +53,11 @@ Data Structure:
     atcoder_abc_233_E: Σ[k=0..10^100]floor(X／10^k) (Segment Tree)
     atcoder_abc_237_G: Range Sort Query (Segment Tree / lazy propagation) (*)
     cf_1676H2: Maximum Crossings (BIT)
+
+    Persistent:
+        tioj_1840: (Discretization / pseudo pointer / Persistent Segment Tree / BIT) (**)
+    Offline:
+        zj_d539: 區間 MAX (BIT)
 
 Divide and Conquer:
     tcirc_d036: Q-3-12. 完美彩帶 (Sliding Window)

@@ -22,7 +22,7 @@
 
 using namespace std;
 
-const int MAX_N = 100000+5;
+const int MAX_N = 10+5;
 const int MAX_M = 5000+5;
 const int ST_SIZE = (1 << 18) - 1; //ST_SIZE > 2*(MAX_N) - 1
 int n, m;
