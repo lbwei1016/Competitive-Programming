@@ -56,8 +56,10 @@ Data Structure:
 
     Persistent:
         tioj_1840: (Discretization / pseudo pointer / Persistent Segment Tree / BIT) (**)
-    Offline:
+    Off-line:
         zj_d539: 區間 MAX (BIT)
+        zj_b417: 區間眾數 (Mo's Algorithm)
+        cf_524E: E. Rooks and Rectangles (Segment Tree) (*)
 
 Divide and Conquer:
     tcirc_d036: Q-3-12. 完美彩帶 (Sliding Window)
