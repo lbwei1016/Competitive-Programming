@@ -55,11 +55,12 @@ Data Structure:
     cf_1676H2: Maximum Crossings (BIT)
 
     Persistent:
-        tioj_1840: (Discretization / pseudo pointer / Persistent Segment Tree / BIT) (**)
+        tioj_1840: (Discretization / pseudo pointer / Persistent Segment Tree / BIT) (整體二分) (**)
     Off-line:
-        zj_d539: 區間 MAX (BIT)
-        zj_b417: 區間眾數 (Mo's Algorithm)
+        zj_d539: 區間 MAX (BIT) (*)
+        zj_b417: 區間眾數 (Mo's Algorithm) (*)
         cf_524E: E. Rooks and Rectangles (Segment Tree) (*)
+        BZOJ_3585: mex (Segment Tree (Off-line / Persistent) / Mo's Algorithm) (**)
 
 Divide and Conquer:
     tcirc_d036: Q-3-12. 完美彩帶 (Sliding Window)
@@ -212,6 +213,8 @@ Graph:
         UVa_10603: Fill (BFS / hash)
     Else:
         tioj_1092: A.跳格子遊戲 (DP / Game / Topology)
+        tioj_1084: 一筆畫問題 (Euler Tour)
+        Google_Kick_Start/2022: Wiggle Walk (brute force / 方格)
 
 Greedy:
     zj_e576: Minimal Coverage
