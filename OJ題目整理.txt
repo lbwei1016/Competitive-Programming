@@ -132,6 +132,7 @@ DP:
     atcoder_abc_232_E: Rook Path (fast power / modular multiplicative inverse)
     cf_1692H: H. Gambling (Maximum Subarray Problem)
     ECNA_2017G: A Question of Ingestion (Memoization)
+    NEERC_13-14: J. Join the Conversation
 
     Optimization:
         zj_d645: 輪下亡魂 (Bounded_knapsack) (二進制拆分優化) (單調隊列優化) (*)
