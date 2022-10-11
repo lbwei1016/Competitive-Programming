@@ -292,6 +292,7 @@ String:
     tioj_1497: 喝醉的宿主 The drunk host (Suffix_Array)
     tioj_1515: Problem E. 似曾相識 (Longest Common Prefix -- LCP)
     tioj_1725: Massacre at Camp Happy (Z algorithm / Matching)
+    cf_1690f: F. Shifting String (Permutation)
 
 Sweeping Line:
     zj_b966: 第 3 題 線段覆蓋長度 (Greedy / apcs / tcirc_d050) (*)
