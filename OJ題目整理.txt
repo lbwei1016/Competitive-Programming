@@ -133,6 +133,7 @@ DP:
     cf_1692H: H. Gambling (Maximum Subarray Problem)
     ECNA_2017G: A Question of Ingestion (Memoization)
     NEERC_13-14: J. Join the Conversation
+    BAPC-17: M. Manhattan Mornings (two-key LIS)
 
     Optimization:
         zj_d645: 輪下亡魂 (Bounded_knapsack) (二進制拆分優化) (單調隊列優化) (*)
@@ -174,7 +175,7 @@ Graph:
         zj_a129: 最小生成樹 (模板題)
         atcoder_235_E: MST + 1 (LCA)
     Shortest Path:
-        poj_3225: Roadblocks (second shortest path / Dijkstra)
+        poj_3255: Roadblocks (second shortest path / Dijkstra)
         poj_3169: Layouts (Bellman-Ford)
         poj_2686: Traveling by Stagecoach (DP)
         cf_543B: Destroying Roads (*)
