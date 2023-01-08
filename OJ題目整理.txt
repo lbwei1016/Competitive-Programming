@@ -218,6 +218,8 @@ Graph:
         tioj_1092: A.跳格子遊戲 (DP / Game / Topology)
         tioj_1084: 一筆畫問題 (Euler Tour)
         Google_Kick_Start/2022: Wiggle Walk (brute force / 方格)
+        ICPC Damascus 2018: B. Amer and Graphs (isomorphism / hash) (**)
+            [這題的 hash 方法值得注意]
 
 Greedy:
     zj_e576: Minimal Coverage
