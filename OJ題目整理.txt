@@ -134,6 +134,7 @@ DP:
     ECNA_2017G: A Question of Ingestion (Memoization)
     NEERC_13-14: J. Join the Conversation
     BAPC-17: M. Manhattan Mornings (two-key LIS)
+    NEERC_17-18: E. Equal Numbers (找倍數)
 
     Optimization:
         zj_d645: 輪下亡魂 (Bounded_knapsack) (二進制拆分優化) (單調隊列優化) (*)
