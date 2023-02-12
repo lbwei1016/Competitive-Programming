@@ -296,6 +296,7 @@ String:
     tioj_1497: 喝醉的宿主 The drunk host (Suffix_Array)
     tioj_1515: Problem E. 似曾相識 (Longest Common Prefix -- LCP)
     tioj_1725: Massacre at Camp Happy (Z algorithm / Matching)
+    cf_963D: D. Frequency of String (AC algorithm) (*)
     cf_1690f: F. Shifting String (Permutation)
 
 Sweeping Line:
